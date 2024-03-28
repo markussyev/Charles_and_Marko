@@ -35,3 +35,19 @@ To push a file you take three steps:
 This is funny 😂😂😂
 This is sad 😥
 This is ==very important rords==
+![bees](https://cdn.britannica.com/78/192578-138-DC7C6A32/conservation-efforts-bee-populations-plant-animal-species.jpg?w=800&h=450&c=crop)
+
+# Inserting an Image
+* Exclamation mark
+* Squared inverted comma to insert the titile
+* normal inverted comma inserrt the copied link address
+
+- Some texts must be **bold**
+- Some texts must be in *italics*
+> blockquote texts
+
+### Share link 
+* Exclamation mark
+*Squared inverted coma title
+*normal inverted coma insert copied lik
+![link sample](https://www.woodlandtrust.org.uk/blog/2023/07/types-of-bee-in-the-uk/)
